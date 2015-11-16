@@ -11,7 +11,7 @@ description: Lots of us have used D3 and React together, or want to. But, how? W
 goal? Define 5 recommendations for best practices or things to think about when using D3 and React together.
 
 --
-####Custom D3 Brainstorming
+####Data Viz Brainstorming
 description: Collaborate on sketching (on paper or in D3) a custom visualization. Bring a dataset or fork a prepared one. Help each other brainstorm and create.
 
 goal? Create sketches of visualizations designed for a particular dataset.
