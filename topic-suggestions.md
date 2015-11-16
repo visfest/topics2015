@@ -12,7 +12,7 @@ goal? Define 5 recommendations for best practices or things to think about when 
 
 --
 ####Custom D3 Brainstorming
-description: Collaborate on sketching (on paper on in D3) a custom visualization. Bring a dataset or fork a prepared one. Help each other brainstorm and create.
+description: Collaborate on sketching (on paper or in D3) a custom visualization. Bring a dataset or fork a prepared one. Help each other brainstorm and create.
 
 goal? Create sketches of visualizations designed for a particular dataset.
 
