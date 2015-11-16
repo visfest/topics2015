@@ -1,5 +1,5 @@
 ####Title
-description: [short description of what the topic is or why you're proposing it]
+description: [Optional: short description of what the topic is or why you're proposing it]
 
 goal? [Optional: During the hour session, is there any particular outcome you want to strive for as a group? Perhaps some recommendations or best practices? A take-away message? List of good examples? Some code? A new bl.ock? Sketches? A challenge? Or just a good conversation?]
 
@@ -9,6 +9,10 @@ goal? [Optional: During the hour session, is there any particular outcome you wa
 description: Lots of us have used D3 and React together, or want to. But, how? What does a good implementation of this look like? What are the pitfalls?
 
 goal? Define 5 recommendations for best practices or things to think about when using D3 and React together.
+
+--
+####Make it fast!
+description: Speed is [critical](https://idl.cs.washington.edu/papers/latency/) in data viz for people to have a good experience and explore the data. But, how do you do it? Share tips & tricks for making D3 fast!
 
 --
 ####Data Viz Brainstorming
