@@ -9,7 +9,7 @@ _comments_? [open ended space to add notes/comments about the proposed session]
 ####D3 + React
 _description_: Lots of us have used D3 and React together, or want to. But, how? What does a good implementation of this look like? What are the pitfalls?
 
-_goal_? Define 5 recommendations for best practices or things to think about when using D3 and React together.
+_goal_? Define 5 things to consider when using D3 and React together.
 
 _comments_?
 
