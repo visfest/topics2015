@@ -26,3 +26,5 @@ What is WebGL ? It's way to talk to GPUs for doing computations in parallel
 GPGPU can also be used to do computations other than graphics in parallel
 
 [Shader School](https://github.com/stackgl/shader-school) is a nice first place to learn more about WebGL / Shaders
+
+[X3Dom](http://www.x3dom.org/)
