@@ -5,5 +5,6 @@ Please add [issues](https://github.com/visfest/topics2015/issues) with ideas for
 
 For reference, here are [last year's sessions](http://visfest.com/d3unconf2014/).
 
-First sessions
+### First sessions
+
 A - [React and D3](./d3-and-react.md)
