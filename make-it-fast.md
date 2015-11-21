@@ -30,3 +30,8 @@ GPGPU can also be used to do computations other than graphics in parallel
 [X3Dom](http://www.x3dom.org/)
 
 [PIXIjs](http://www.pixijs.com/) A nice library that uses WebGL for 2D graphics so you don't have to.
+
+Strategies for speeding up visualizations that don't require a technical approach?
+
+**Link to BigVis?**
+
