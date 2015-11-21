@@ -28,3 +28,5 @@ GPGPU can also be used to do computations other than graphics in parallel
 [Shader School](https://github.com/stackgl/shader-school) is a nice first place to learn more about WebGL / Shaders
 
 [X3Dom](http://www.x3dom.org/)
+
+[PIXIjs](http://www.pixijs.com/) A nice library that uses WebGL for 2D graphics so you don't have to.
