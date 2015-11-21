@@ -35,3 +35,6 @@ Strategies for speeding up visualizations that don't require a technical approac
 
 **Link to BigVis?**
 
+Sometimes you don't know what is the question. You don't even know if you expect to see an outliner. That's a case where you cannot filter, where you cannot have an aggregation.
+
+Another technique: Start loading the filters the user is likely to click on before the do.
