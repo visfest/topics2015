@@ -23,3 +23,5 @@ React is really good when you're dealing with large code bases. It's built that 
 Should we use D3 as a layout library? Or a rendering library?
 
 Transitions with React don't seem solidly fleshed out
+
+A lot of people think of D3 to calculate, and react to layout.
