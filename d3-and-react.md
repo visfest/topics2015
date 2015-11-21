@@ -25,3 +25,10 @@ Should we use D3 as a layout library? Or a rendering library?
 Transitions with React don't seem solidly fleshed out
 
 A lot of people think of D3 to calculate, and react to layout.
+
+Both D3 and React could handle layout.
+
+React has it's own virtual DOM that mirrors the actual DOM. React will diff the two and efficiently change the real one.
+
+How do you do transitions on entering/exiting a node?
+
