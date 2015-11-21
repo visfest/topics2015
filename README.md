@@ -7,7 +7,7 @@ For reference, here are [last year's sessions](http://visfest.com/d3unconf2014/)
 
 Find the rest of the session notes in the wiki! https://github.com/visfest/topics2015/wiki
 
-I mistakely put my notes in the repo itself :P - victor
+I mistakenly put my notes in the repo itself :P - victor
 
 ### session 1
 
