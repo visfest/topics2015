@@ -17,3 +17,6 @@ It might be helpful to talk about other frameworks to talk about what makes reac
 I recently started using react for a side project. For us, the one of the most powerful features of react is server side rendering. Redux also works great for undo/redo functionality.
 
 React is really good when you're dealing with large code bases. It's built that way because Facebook has a very large code base. There are side projects that I might be working on that are maybe not the best fit for React. With D3 I feel like I'm painting. With React, I feel like I'm building things by combining components.
+
+### How do people use D3 and React together?
+
