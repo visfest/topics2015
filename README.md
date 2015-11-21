@@ -8,3 +8,8 @@ For reference, here are [last year's sessions](http://visfest.com/d3unconf2014/)
 ### First sessions
 
 A - [React and D3](./d3-and-react.md)
+
+
+### Second sessions
+
+A - [Make it fast](./make-it-fast.md)
