@@ -32,6 +32,7 @@ React has it's own virtual DOM that mirrors the actual DOM. React will diff the 
 
 How do you do transitions on entering/exiting a node?
 
-Different opproaches. No one has "won"
+#### Different opproaches. No one has "won"
+
 1. Buy into React complete. Only use D3 for things like transforming data.
 2. Let D3 "own" the component.
